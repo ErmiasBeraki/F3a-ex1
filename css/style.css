@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-color: #f5e6cb;
+    max-width: 600px;
+    margin: 0 auto; /* Centrering av sidans innehåll */
+}
+
+img {
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3 {
+    color: #b54a15;
+    font-style: italic;
+}
+
+#nature {
+    background-color: #dfc79b;
+    padding: 24px;
+}
+
+#nature h2 {
+    margin-top: 0;
+}
